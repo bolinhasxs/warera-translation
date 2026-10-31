@@ -16499,18 +16499,18 @@ msgstr "Em cada treino, são apresentadas {handSize} opções da mesma raridade.
 
 #: src/components/_economy/employee/TrainingHistory.tsx:244
 msgid "Training history"
-msgstr "msgid "Training history"
+msgstr "Histórico de treino"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
 #: src/components/_economy/employee/TrainingCard.tsx:375
 #: src/components/_economy/employee/TrainingDraftModal.tsx:274
 msgid "Training potential"
-msgstr ""
+msgstr "Potencial"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:179
 msgid "Training potential left"
-msgstr ""
+msgstr "Potencial restante"
 
 #. placeholder {0}: outcome.potentialMax
 #: src/components/_economy/employee/TrainingHistory.tsx:152
